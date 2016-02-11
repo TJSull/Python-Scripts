@@ -1,9 +1,9 @@
 import socket
 import sys
 
-TCP_IP=""					#Host IP - Leave Blank - We are The Host
-TCP_PORT=80				    #Example Port
-BUF_SIZE=1024				#Default Buffer Size
+TCP_IP=""		#Host IP - Leave Blank - We are The Host
+TCP_PORT=80		#Example Port
+BUF_SIZE=1024		#Default Buffer Size
 
 #Create TCP Socket
 sc = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
