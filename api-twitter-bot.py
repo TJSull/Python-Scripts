@@ -27,10 +27,10 @@ def ethereum():
 
 #Authentication keys needed to associate and authenticate with Twitter
 #Keys have been left blank for GitHub
-CONSUMER_KEY = 'D156PFw77elEJHgkRfd1DsXr8'
-CONSUMER_SECRET = 'NWe5CQpSWtXJfZTnkoNtBSiKt8lU4Rl3qgoV65jcKkHN14siuP'
-ACCESS_KEY = '703410302273118208-he1GgK9TtwIwz7jawqybC93fr2O0IRK'
-ACCESS_SECRET = '0vYZBvFQM90UTMzb7pEld5w6x6uh5qBD4T7h1EGQqH3PX'
+CONSUMER_KEY = 'insert-here'
+CONSUMER_SECRET = 'insert-here'
+ACCESS_KEY = 'insert-here'
+ACCESS_SECRET = 'insert-here'
 
 #Use Tweepy to authenticate with Twitter and update status
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
