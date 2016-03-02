@@ -7,7 +7,6 @@ api-twitter-bot.py - 2.29.2016
 - Imports Tweepy, a third party Twitter Library for Python, to interact with Twitter
 - The functions from bittrex-api-reader.py reader were used and modified to return a string
 - Uses time function to pause and return a tweet every 30 minutes
-- 
 
 bittrex-api-reader.py - 2.24.2016
 - Developed a simple program to read the api from bittrex.com
