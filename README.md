@@ -18,7 +18,7 @@ bittrex-api-reader.py - 2.24.2016
 
 
 
-To Do - 2.15.2016
+To Do -
 - Create a function to send a continuously growing packet to any user defined port 
 - Develop a program to serve a file on any user defined port
 - Develop a program to parse HTTP headers from a webserver, return them, and save them to a text file. Possibly check multiple ports for a webserver (eg 80 and 443)
